@@ -10,5 +10,5 @@ export default async function Home() {
      
   //   </main>
 
-  <h1 className="bg-red-600">Hello World</h1>
+  <h1 className=" underline">Hello World</h1>
  );}
