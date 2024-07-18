@@ -13,9 +13,9 @@ const Hero = () => {
     <div className='hero-section'>
       <div className='hero-container'>
        <div className='object-cover'>
-        <Image src={bg} height={100} width={1400} alt='banner'/>
+        
        </div>
-       <div className="">
+       <div className="drop-shadow-md">
         <motion.div
         initial='hidden'
         animate='visible'

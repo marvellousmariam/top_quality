@@ -40,3 +40,10 @@ body {
 .hero-img{
   @apply absolute md:mt-[300px] mt-[150px]
 }
+.product-detail-section{
+  @apply w-full md:py-16
+}
+
+.product-detail-container{
+  @apply gap-8 md:max-w-[1024px] 
+}
